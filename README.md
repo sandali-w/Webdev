@@ -5,3 +5,7 @@
 ### js-module-1-2
 
 I completed assignments.
+
+### js-module-3
+
+I completed assignments.
