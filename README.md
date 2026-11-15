@@ -9,3 +9,7 @@ I completed assignments.
 ### js-module-3
 
 I completed assignments.
+
+### js-module-4
+
+I completed assignments.
