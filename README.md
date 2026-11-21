@@ -2,7 +2,7 @@
 
 ### js-module-1-2
 
-[My limk to js mod 1-2 folder at users.metropolia.fi](https://users.metropolia.fi/~sandaliw/js-module-1-2/)
+[My link to js mod 1-2 folder at users.metropolia.fi](https://users.metropolia.fi/~sandaliw/js-module-1-2/)
 
 I completed assignments.
 
@@ -16,4 +16,4 @@ I completed assignments.
 
 [My link to js mod 4 folder at users.metropolia.fi](https://users.metropolia.fi/~sandaliw/js-module-4/)
 
-Completed assignments.
+I completed assignments.
