@@ -16,4 +16,4 @@ I completed assignments.
 
 [My link to js mod 4 folder at users.metropolia.fi](https://users.metropolia.fi/~sandaliw/js-module-4/)
 
-Completed assignments:
+Completed assignments.
