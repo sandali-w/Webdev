@@ -17,3 +17,9 @@ I completed assignments.
 [My link to js mod 4 folder at users.metropolia.fi](https://users.metropolia.fi/~sandaliw/js-module-4/)
 
 I completed assignments. 
+
+### flask_server
+
+[My link to flask_serverfolder at users.metropolia.fi](https://users.metropolia.fi/~sandaliw/flask_server/)
+
+I completed assignments.
