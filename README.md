@@ -5,6 +5,7 @@
 [My link to js mod 1-2 folder at users.metropolia.fi](https://users.metropolia.fi/~sandaliw/js-module-1-2/)
 
 I completed assignments.
+
 -Task 01: 1p
 -Task 02: 2p
 -Task 03: 3p
