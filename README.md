@@ -44,7 +44,7 @@ I completed assignments.
 
 [My link to js mod 4 folder at users.metropolia.fi](https://users.metropolia.fi/~sandaliw/js-module-4/)
 
-I completed assignments. 
+I completed assignments.s
 
 -Task 01: 2p
 -Task 02: 2p
